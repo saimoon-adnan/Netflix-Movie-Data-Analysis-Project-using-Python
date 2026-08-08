@@ -2,9 +2,9 @@
 
 A complete end-to-end data analysis project exploring trends in Netflix movies using **Python** and **Pandas**. The project performs ETL (Extract, Transform, Load) operations on a raw dataset of **9,000+ movies**, cleans and transforms the data, and derives actionable insights through exploratory data analysis (EDA) and visualization.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-informational)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightgrey)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
 
@@ -87,30 +87,10 @@ The dataset contains information about Netflix movies, including:
 
 ## 📈 Project Visualizations
 
-| Release Date Distribution | Vote Distribution | Genre Distribution |
+| Genre Distribution  | Vote Distribution | Release Date Distribution |
 |:---:|:---:|:---:|
-| *(chart)* | *(chart)* | *(chart)* |
+| ![Release Date Distribution](netflix%201.png) | ![Vote Distribution](netflix%202.png) | ![Genre Distribution](netflix%203.png) |
 
-> Add your chart images here (e.g. `images/release_date_distribution.png`, `images/vote_distribution.png`, `images/genre_distribution.png`) and update the links above.
-
----
-
-## 🚀 How to Run This Project
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
-   ```
-2. Install the required dependencies
-   ```bash
-   pip install pandas numpy matplotlib jupyter
-   ```
-3. Launch Jupyter Notebook
-   ```bash
-   jupyter notebook
-   ```
-4. Open the `.ipynb` file and run the cells sequentially.
 
 ---
 
@@ -126,4 +106,3 @@ This project demonstrates practical skills in Python-based data analysis, ETL pr
 Computer Science student focused on product analytics, data science, machine learning, and software engineering.
 
 - 📧 Email: adnansaimoon@gmail.com
-
